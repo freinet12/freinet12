@@ -5,7 +5,7 @@
       https://thriveunburdened.com/
       https://platinumtagsmedia.com/
 - 📫 How to reach me:
-     email me at freinetbrutus@gmail.com
+    -  📨 freinetbrutus@gmail.com
 
 <!---
 freinet12/freinet12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
