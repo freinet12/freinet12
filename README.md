@@ -2,8 +2,8 @@
 - 👨‍💻 I’m a Full-Stack Developer and a big fan of Vue.js. My go-to stack is Vue + Node.js + PostgreSQL
 - 🌱 I’m currently learning AWS (Lambda, DynamoDB, Elastic Beanstalk, Amplify, etc.)
 - 💼 Some of my recent work:
-      https://thriveunburdened.com/
-      https://platinumtagsmedia.com/
+     - https://thriveunburdened.com/
+     - https://platinumtagsmedia.com/
 - 📫 How to reach me:
     -  📨 freinetbrutus@gmail.com
 
