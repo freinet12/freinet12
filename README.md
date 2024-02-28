@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS (Lambda, DynamoDB, Elastic Beanstalk, Amplify, etc.)
 - 💼 Some of my recent work:
      - https://www.pyas.io/
-     - https://accrabbit.com/
+     - https://accountingrabbit.com/
      - https://thriveunburdened.org/
      - https://platinumtagsmedia.com/
 
